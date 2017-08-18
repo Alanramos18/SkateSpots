@@ -1,0 +1,2 @@
+# SkateSpots
+Application for skaters
